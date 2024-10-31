@@ -16,7 +16,6 @@ export default defineConfig({
           {
             name: "Roboto Flex",
             weights: ["400", "600"],
-            italic: true,
           },
         ],
       },

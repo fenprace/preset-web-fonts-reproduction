@@ -1,4 +1,4 @@
-# How to reproduct
+# How to reproduce
 
 ```sh
 pnpm install
